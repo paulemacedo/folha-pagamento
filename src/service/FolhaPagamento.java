@@ -1,4 +1,4 @@
-package folhaPagamento;
+package service;
 
 public class FolhaPagamento {
 
